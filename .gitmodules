@@ -1,0 +1,3 @@
+[submodule "Tutos/tuto-submodule"]
+	path = Tutos/tuto-submodule
+	url = git@github.com:Cyclops789/tuto-submodule.git
