@@ -1,10 +1,15 @@
+---
+layout: main_layout
+title: "Rapport"
+---
+
 # RAPPORT
-## INTRODUCTION
-## NEED
-## PROJECT SOLI-LSM
-## LEARNING
-## EMPATHIE
-## DEFINITION
+## Introduction
+## Need
+## Project SOLI-LSM
+## Learning
+## Empathy
+## Definition
 ## Class diagram
 ## Use case
-## TEST
+## Test
