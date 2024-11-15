@@ -1,0 +1,22 @@
+@startuml
+left to right direction
+actor Formateur
+actor Apprenant
+
+usecase "Suivre les progrès des apprenants" as UC2
+usecase "Gérer les notes et compétences" as UC3
+usecase "Donner des feedbacks réguliers" as UC4
+usecase "Consulter le tableau de bord personnel" as UC5
+usecase "Travailler sur les projets" as UC6
+usecase "Recevoir des rappels et notifications" as UC7
+
+Formateur --> UC2
+Formateur --> UC3
+Formateur --> UC4
+Formateur --> UC7
+
+Apprenant --> UC5
+Apprenant --> UC6
+Apprenant --> UC4
+
+@enduml
